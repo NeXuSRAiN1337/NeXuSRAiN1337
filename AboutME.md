@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning the value of making experiences.....and achieving more with bash scripting. 
 - 💞️ I’m looking to collaborate on ... …time will show…
 
-- ✅ I'm best in (procedual) PHP <3 and operating and maintaining Linux / -Servers. - 📫 How to reach me ... give 
-- 📨 You may reach me via: lc2fbbvt3 [🎩] m0zma1l [•] ¢om	[w/o the l³³t and special chars] 
+- ✅ I'm best in (procedual) PHP <3 and operating and maintaining Linux / -Servers.
+- 📨 You can reach me via: lc2fbbvt3 [🎩] møzma¡l [•] ¢om	[w/o the spam-shield chars (&& the regular ones inserted instead)] 
 
 
 <!---
