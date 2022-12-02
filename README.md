@@ -16,12 +16,15 @@ NeXuSRAiN1337/NeXuSRAiN1337 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-</snip>
+</snip of same file>
 
 
-- 🔭 I’m currently working on … 
-- 🤔 I’m looking for help with ...
+
+- 🔭 I’m currently working on quite a few things.
+- 🤔 I’m looking for help with Flexbox, JS and making PHP code more secure against exploitation. 
+
 - 💬 Ask me about whatever you like. Asking doesn't cost, right? :) 
-- 😄 Pronouns: [let me verify the translations first again] 
-- ⚡ Fact: I'm a honest and loyal person which doesn't intend harming anyone as ACtion (REaction: better don't think I cannot even be other than "chill" ;p)
+- 😄 Pronouns: [let me verify the translations/meanings first] 
+
+- ⚡ Facts: I'm a honest and loyal person which doesn't intend harming anyone as ACtion (REaction: better don't think I cannot even be other than "chill" ;p)
 	& am happy to not eat tortured & dead animals since >10y. :)	[ Vegeterian <3 ]
